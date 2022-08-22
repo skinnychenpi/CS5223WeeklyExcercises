@@ -1,0 +1,9 @@
+
+First, read the following regarding some basic background knowledge (if you do not already have) on java packages and classpath.
+
+https://docs.oracle.com/javase/7/docs/technotes/tools/windows/classpath.html
+
+Next, follow the steps in the following tutorial on Java RMI.
+
+https://docs.oracle.com/javase/8/docs/technotes/guides/rmi/hello/hello-world.html
+
